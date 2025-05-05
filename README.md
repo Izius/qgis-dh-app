@@ -1,6 +1,7 @@
 # QGIS app
 
 This app creates QGIS map based on the coordinates and categories in an excel file.
+Categories are based on levelized cost of heat for either individual users or district heating. App includes run.bat file to run an application, program.py script that runs behind the run.bat file and qgis_func.py that includes functions necessary for processing and creating the QGIS project. 
 
 ## Description
 This run.bat executes program.py. This program takes as an input an Excel file with
